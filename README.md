@@ -45,7 +45,7 @@ Based on gruvbox hard dark background with refined color mappings. Less reddish,
 | Keywords    | Bright Yellow `#fabd2f` |
 | Strings     | Green `#8ec07c` |
 | Functions   | Blue `#83a598` |
-| Types       | Orange `#fe8019` |
+| Types       | Bright Yellow `#fabd2f` |
 | Constants   | Magenta `#d3869b` |
 | Comments    | Comment Gray `#968772` |
 | Tags        | Yellow `#dc9656` |
