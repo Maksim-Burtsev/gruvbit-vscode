@@ -424,8 +424,15 @@
       }
     },
     {
-      "name": "Type — type and class names",
-      "scope": ["entity.name.type", "entity.name.class", "support.type"],
+      "name": "Type — class/type definition names (foreground, not colored)",
+      "scope": ["entity.name.class", "entity.name.type"],
+      "settings": {
+        "foreground": "#ebdbb2"
+      }
+    },
+    {
+      "name": "Type — type hints and built-in types",
+      "scope": ["support.type", "support.class", "entity.other.inherited-class"],
       "settings": {
         "foreground": "#fabd2f"
       }
