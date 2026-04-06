@@ -176,13 +176,13 @@
     "editorWidget.border": "#444444",
     "editorWidget.resizeBorder": "#444444",
 
-    "editorSuggestWidget.background": "#444444",
+    "editorSuggestWidget.background": "#2d3031",
     "editorSuggestWidget.foreground": "#ebdbb2",
     "editorSuggestWidget.border": "#444444",
     "editorSuggestWidget.highlightForeground": "#fabd2f",
-    "editorSuggestWidget.selectedBackground": "#dc9656",
+    "editorSuggestWidget.selectedBackground": "#475048",
     "editorSuggestWidget.focusHighlightForeground": "#fabd2f",
-    "editorSuggestWidget.selectedForeground": "#1d2021",
+    "editorSuggestWidget.selectedForeground": "#ebdbb2",
 
     "editorHoverWidget.background": "#2d3031",
     "editorHoverWidget.foreground": "#ebdbb2",
