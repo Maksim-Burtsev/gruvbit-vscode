@@ -141,7 +141,7 @@
     "editorIndentGuide.activeBackground1": "#444444",
     "editorRuler.foreground": "#2d3031",
     "editorCodeLens.foreground": "#968772",
-    "editorBracketMatch.background": "#47504860",
+    "editorBracketMatch.background": "#00000000",
     "editorBracketMatch.border": "#968772",
 
     "editorBracketHighlight.foreground1": "#ebdbb2",
