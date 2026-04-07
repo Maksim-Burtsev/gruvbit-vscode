@@ -3,12 +3,12 @@
   "displayName": "Gruvbit",
   "description": "Port of vim-gruvbit — refined gruvbox colorscheme by Maxim Kim",
   "version": "0.1.0",
-  "publisher": "REPLACE-ME",
+  "publisher": "maksim-burtsev",
   "license": "MIT",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/REPLACE-ME/vscode-gruvbit"
+    "url": "https://github.com/Maksim-Burtsev/gruvbit-vscode"
   },
   "categories": [
     "Themes"
