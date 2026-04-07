@@ -8,6 +8,10 @@ A Visual Studio Code color theme — faithful port of [vim-gruvbit](https://gith
 
 Based on gruvbox hard dark background with refined color mappings. Less reddish, more yellowish. No bold or italic except for headings/titles — staying true to the original.
 
+## Preview
+
+![Gruvbit preview](assets/preview.png)
+
 ## Color Palette
 
 | Role         | Color   | Hex       |
