@@ -1,4 +1,8 @@
-# Gruvbit for VS Code
+<p align="center">
+  <img src="assets/owl.png" alt="Gruvbit owl" width="160" height="160">
+</p>
+
+<h1 align="center">Gruvbit for VS Code</h1>
 
 A Visual Studio Code color theme — faithful port of [vim-gruvbit](https://github.com/habamax/vim-gruvbit) by Maxim Kim.
 
