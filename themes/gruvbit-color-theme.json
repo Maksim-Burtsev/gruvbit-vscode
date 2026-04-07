@@ -129,10 +129,10 @@
     "editor.findMatchBackground": "#8ec07c80",
     "editor.findMatchHighlightBackground": "#dc965640",
     "editor.findMatchBorder": "#8ec07c",
-    "editor.hoverHighlightBackground": "#2d3031",
-    "editor.lineHighlightBackground": "#2d3031",
+    "editor.hoverHighlightBackground": "#2d303180",
+    "editor.lineHighlightBackground": "#2d303180",
     "editor.lineHighlightBorder": "#2d303100",
-    "editor.rangeHighlightBackground": "#2d3031",
+    "editor.rangeHighlightBackground": "#2d303180",
     "editorLink.activeForeground": "#83a598",
     "editor.foldBackground": "#2d303180",
 
