@@ -1,7 +1,7 @@
 {
   "name": "gruvbit",
   "displayName": "Gruvbit",
-  "description": "Port of vim-gruvbit — refined gruvbox colorscheme by Maxim Kim",
+  "description": "A warm take on gruvbox for VS Code.",
   "version": "0.1.0",
   "publisher": "maksim-burtsev",
   "license": "MIT",
