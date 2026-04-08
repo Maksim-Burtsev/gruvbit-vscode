@@ -2,7 +2,7 @@
   "name": "gruvbit",
   "displayName": "Gruvbit",
   "description": "A warm take on gruvbox for VS Code.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "maksim-burtsev",
   "license": "MIT",
   "icon": "icon.png",
