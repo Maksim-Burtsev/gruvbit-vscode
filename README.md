@@ -6,7 +6,17 @@ Based on gruvbox hard dark background with refined color mappings. Less reddish,
 
 ## Preview
 
-![Gruvbit preview](assets/preview.png)
+### Python
+
+![Python example](assets/preview.png)
+
+### Go
+
+![Go example](assets/preview-go.png)
+
+### TypeScript
+
+![TypeScript example](assets/preview-ts.png)
 
 ## Installation
 
