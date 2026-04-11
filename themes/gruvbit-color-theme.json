@@ -381,6 +381,16 @@
       }
     },
     {
+      "name": "Go — import/package are Statement, not PreProc (match vim-gruvbit)",
+      "scope": [
+        "keyword.control.import.go",
+        "keyword.package.go"
+      ],
+      "settings": {
+        "foreground": "#fabd2f"
+      }
+    },
+    {
       "name": "PreProc — decorators",
       "scope": [
         "entity.name.function.decorator",
