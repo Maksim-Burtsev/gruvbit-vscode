@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2
+
+- Fix Go `import`/`package` keywords to use Statement color (`#fabd2f`) instead of PreProc
+- Add Go and TypeScript preview screenshots, minor README cleanup
+
 ## 0.1.1
 
 - Add marketplace icon (512x512, `#1d2021` background)
